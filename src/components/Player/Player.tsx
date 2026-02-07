@@ -23,7 +23,6 @@ export const Player = () => {
         isPlaying, 
         currentTime, 
         volume, 
-        isMuted, 
         volumeIcon, 
         handlePlay, 
         handleRepeat, 
